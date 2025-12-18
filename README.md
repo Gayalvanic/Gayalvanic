@@ -3,13 +3,13 @@
 
  Data enthusiast | Aspiring Data Analyst | Forever curious  
 
- I’m currently working on turning raw data into insights through small analytics projects and learning-by-building ✨  <br>
- I’m looking to collaborate on Beginner-friendly data analytics, Python, SQL, and AI-related projects (learning together > knowing everything😉)  <br>
- I’m looking for help with improving my data storytelling, visualization skills, and writing cleaner, smarter code.  <br>
- I’m currently learning Data Analytics, Python, NumPy, SQL, and the basics of AI & Machine Learning.  <br>
- Ask me about getting started with data analytics, learning tech from scratch, or balancing logic with creativity.  <br>
- Fun fact: I sing , overthink datasets , and believe debugging at 2 AM builds character 😌  <br>
-Actively exploring🕵️‍♀️ internships & real-world projects where data meets impact. 
+🧠 Turning messy data into “ohhh that makes sense” moments ✨  
+🐍 Playing with Python, SQL & analytics — learning by breaking things (and fixing them)  
+🤝 Down to collaborate if you’re curious, confused, or just excited about data  
+💬 Ask me about starting in analytics or surviving beginner chaos 😌  
+⚡ Fun fact: I sing , overthink datasets , and debug best after midnight 🌙  
+
+Actively
 
  Languages I speak:  
 - English  
