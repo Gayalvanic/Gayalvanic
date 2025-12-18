@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Level 1: Cute + Quirky bio -->
 
-<!--
-**Gayalvanic/Gayalvanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎀Hi, I’m Gayathri Dadyreddy!🎀
 
-Here are some ideas to get you started:
+📄 Data enthusiast | 💻 Aspiring Data Analyst | ✨ Forever curious  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I love turning messy data into meaningful insights and asking *“but why?”* a little too often.  
+🐍 Currently working with **Python, NumPy, SQL**, and dabbling in **AI & analytics** one project at a time.  
+🌱 Learning in public, breaking code, fixing it, and learning again.
+
+🕵️‍♀️ Actively exploring internships & real-world projects where data meets impact.  
+🎶 Fun side quest: I sing, I vibe with music, and creativity keeps my brain running.
+
+💬 Languages I speak:  
+- English  
+- Telugu  
+- Hindi  
+- (and occasionally Python 😌)
+
+✨ This repo is my digital diary — projects, experiments, progress, and a little chaos.  
+If you’re here to learn, build, or just vibe… welcome 🤍  
+
+---
+
+### 📈 My GitHub Stats
+![Gayathri's GitHub stats]()
