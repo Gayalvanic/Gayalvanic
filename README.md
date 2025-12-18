@@ -23,4 +23,4 @@ If you’re here to learn, build, or just vibe… welcome 🤍
 ---
 
 ### 📈 My GitHub Stats
-![Gayathri's GitHub stats]()
+![Gayathri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayalvanic&theme=dracula)
