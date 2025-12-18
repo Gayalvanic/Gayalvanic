@@ -3,8 +3,8 @@
 
  Data enthusiast | Aspiring Data Analyst | Forever curious  
 
-🧠 Turning messy data into “ohhh that makes sense” moments ✨  
-🐍 Playing with Python, SQL & analytics — learning by breaking things (and fixing them)  
+✍ Turning messy data into “ohhh that makes sense” moments ✨  
+😺 Playing with Python, SQL & analytics — learning by breaking things (and fixing them)  
 🤝 Down to collaborate if you’re curious, confused, or just excited about data  
 💬 Ask me about starting in analytics or surviving beginner chaos 😌  
 ⚡ Fun fact: I sing , overthink datasets , and debug best after midnight 🌙  
