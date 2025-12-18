@@ -9,8 +9,6 @@
 💬 Ask me about starting in analytics or surviving beginner chaos 😌  
 ⚡ Fun fact: I sing , overthink datasets , and debug best after midnight 🌙  
 
-Actively
-
  Languages I speak:  
 - English  
 - Telugu  
